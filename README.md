@@ -1,6 +1,6 @@
 # CMOS Inverter Layout Design and Verification | Cadence Virtuoso | GPDK 45nm
 
-A complete CMOS inverter design flow implemented using **Cadence Virtuoso** with **GPDK 45nm technology**, including schematic design, layout implementation, DRC/LVS verification, and transient simulation analysis.
+A complete CMOS inverter design flow implemented using **Cadence Virtuoso** with **GPDK 45nm technology**, including schematic design, layout implementation, DRC/LVS verification, and transient simulation analysis before and after matching.
 
 ---
 
