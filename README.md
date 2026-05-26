@@ -35,15 +35,15 @@ The project covers:
 
 Designed CMOS inverter using:
 
-- `PMOS_VTL`
-- `NMOS_VTL`
+- `PMOS_1V_LVT`
+- `NMOS_1V_LVT`
 
 Configured transistor sizing:
 
 | Transistor | Width (W) | Length (L) |
 |------------|------------|------------|
-| PMOS       | 500nm      | 50nm       |
-| NMOS       | 250nm      | 50nm       |
+| PMOS       | 120nm      | 45nm       |
+| NMOS       | 120nm      | 45nm       |
 
 Connections:
 - Gates connected together → Input
